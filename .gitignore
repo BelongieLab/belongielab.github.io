@@ -1,6 +1,9 @@
 # jekyll related
+_site/
+.sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+Gemfile.lock
 
 # General
 .DS_Store?
