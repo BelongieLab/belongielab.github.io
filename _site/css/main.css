@@ -1629,7 +1629,7 @@ tbody.collapse.in { display: table-row-group; }
 
 @media (min-width: 768px) { .navbar-left { float: left !important; } .navbar-right { float: right !important; margin-right: -15px; } .navbar-right ~ .navbar-right { margin-right: 0; } }
 
-.navbar-default { background-color: #b31b1b; border-color: #e7e7e7; }
+.navbar-default { background-color: #901a1e; border-color: #e7e7e7; }
 
 .navbar-default .navbar-brand { color: #ececec; }
 
