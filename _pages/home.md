@@ -17,4 +17,4 @@ Wondering what Computer Vision is? Have a look:
 
 Link to [SE(3) website at Cornell Tech](https://vision.cornell.edu/se3/) and [SO(3) website at UCSD](http://vision.ucsd.edu/).
 
-**We are  looking for passionate new PhD students, Postdocs, and research assistants to join the team.**
+**Interested in joining the team? Available positions are posted on the [KU Employment portal](https://employment.ku.dk) for [PhD students](https://employment.ku.dk/phd), [Postdocs](https://employment.ku.dk/faculty), and [Visiting Researchers](https://employment.ku.dk/staff).**
