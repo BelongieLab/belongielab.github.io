@@ -99,6 +99,17 @@ permalink: /team/
 {% for member in site.data.se3_alumni %}
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
+  <h4><b>BS/Masters Alumni & Visitors</b></h4>
+  Jeremy Feinstein<br>
+  Rohit Jain<br>
+  Jonathan Huang<br>
+  Arnaud Brejeon<br>
+  Jan Jakeš<br>
+  Daniel Glasner<br>
+  Baoguang Shi<br>
+  Chensu Xie<br>
+  Yiwei Bai<br>
+  Yurong Yu<br>
 </div>
 
 <div class="col-sm-6 clearfix">
@@ -106,6 +117,34 @@ permalink: /team/
 {% for member in site.data.so3_alumni %}
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
+  <h4><b>BS/Masters Alumni & Visitors</b></h4>
+  Grant Van Horn<br>
+  Phuc X. Nguyen<br>
+  Andrew Ziegler<br>
+  Prasanna Krishnasamy<br>
+  Nick True<br>
+  Tess Winlock<br>
+  Fred Birchmore<br>
+  Nadav Ben-Haim<br>
+  Tom Duerig<br>
+  Louka Dlagnekov<br>
+  Diem Vu<br>
+  Stine Harder<br>
+  Tomas Matera<br>
+  Chong Cao<br>
+  Antoni Chan<br>
+  Kyong Mu Lee<br>
+  Ana Cristina Murillo<br>
+  Kris Kitani<br>
+  Tsubasa Yoshida<br>
+  Peter Faymonville<br>
+  Masaaki Kokawa<br>
+  Valentin Leonardi<br>
+  Michele Merler<br>
+  Jocelyn Cambria<br>
+  Robin Hewitt<br>
+  John Miller<br>
+  Stephan Steinbach<br>
 </div>
 
 </div>
