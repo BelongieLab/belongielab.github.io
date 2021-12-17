@@ -95,16 +95,16 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-<h4> <b>SE(3) Alumni @ Cornell</b> </h4>
+<h4> <b>SE(3) PhD Alumni (Cornell)</b> </h4>
 {% for member in site.data.se3_alumni %}
-{{ member.name }}, Graduation year: {{ member.year }}, Next step: {{ member.next }} 
+{{ member.name }}, {{ member.year }}, {{ member.next }} 
 {% endfor %}
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4> <b>SO(3) Alumni @ UCSD</b> </h4>
+<h4> <b>SO(3) PhD Alumni (UCSD)</b> </h4>
 {% for member in site.data.so3_alumni %}
-{{ member.name }}, Graduation year: {{ member.year }}, Next step: {{ member.next }} 
+{{ member.name }}, {{ member.year }}, {{ member.next }} 
 {% endfor %}
 </div>
 
