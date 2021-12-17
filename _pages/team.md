@@ -95,11 +95,11 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-<h4> <b>SE(3) PhD Alumni (Cornell)</b> </h4>
+<h4> <b>Cornell SE(3) PhD Alumni</b> </h4>
 {% for member in site.data.se3_alumni %}
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
-  <h4><b>BS/Masters Alumni & Visitors</b></h4>
+  <h4><b>Cornell BS/Masters Alumni & Visitors</b></h4>
   Pragya Verman<br>
   Philip Su<br>
   Andrew Mendez<br>
@@ -127,11 +127,11 @@ permalink: /team/
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4> <b>SO(3) PhD Alumni (UCSD)</b> </h4>
+<h4> <b>UCSD SO(3) PhD Alumni</b> </h4>
 {% for member in site.data.so3_alumni %}
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
-  <h4><b>BS/Masters Alumni & Visitors</b></h4>
+  <h4><b>UCSD BS/Masters Alumni & Visitors</b></h4>
   Grant Van Horn<br>
   Phuc X. Nguyen<br>
   Andrew Ziegler<br>
