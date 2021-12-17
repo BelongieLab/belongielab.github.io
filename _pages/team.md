@@ -100,6 +100,20 @@ permalink: /team/
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
   <h4><b>BS/Masters Alumni & Visitors</b></h4>
+  Pragya Verman<br>
+  Philip Su<br>
+  Andrew Mendez<br>
+  Debarun Dhar<br>
+  Tomáš Matera<br>
+  Bicheng Gao<br>
+  Xiaoyan Wu<br>
+  Jiaqi Su<br>
+  Sam Hoffman<br>
+  Dilip Thiagarajan<br>
+  Alvin Zhu<br>
+  Isay Katsman<br>
+  Xi Chen<br>
+  Tharun Sankar<br>
   Jeremy Feinstein<br>
   Rohit Jain<br>
   Jonathan Huang<br>
