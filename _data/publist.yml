@@ -1,3 +1,10 @@
+- author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
+  link:
+    display: PDF
+    url: ''
+  title: Geometry Processing with Neural Fields
+  venue: 'Neural Information Processing Systems (NeurIPS), Virtual, '
+  year: '2021'
 - address: Virtual
   author: Omid Poursaeed, Tianxing Jiang, Harry Yang, Serge Belongie, Ser-Nam Lim
   booktitle: International Conference on Computer Vision (ICCV)
