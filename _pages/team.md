@@ -100,7 +100,7 @@ permalink: /team/
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
   <h4><b>Cornell BS/Masters Alumni & Visitors</b></h4>
-  Pragya Verman<br>
+  Pragya Verma<br>
   Philip Su<br>
   Andrew Mendez<br>
   Debarun Dhar<br>
