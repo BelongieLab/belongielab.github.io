@@ -97,7 +97,15 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
 <h4> <b>Cornell SE(3) PhD Alumni</b> </h4>
 {% for member in site.data.se3_alumni %}
-{{ member.name }}, {{ member.year }}. {{ member.next }} 
+
+{% if member.website == null %}
+  {{ member.name }}, {{ member.year }}. {{ member.next }} 
+
+{% else %}
+  <a href="{{ member.website }}">{{ member.name }}</a>, {{ member.year }}. {{ member.next }} 
+
+{% endif %}
+
 {% endfor %}
   <h4><b>Cornell BS/Masters Alumni & Visitors</b></h4>
   Pragya Verma<br>
@@ -129,8 +137,16 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
 <h4> <b>UCSD SO(3) PhD Alumni</b> </h4>
 {% for member in site.data.so3_alumni %}
-{{ member.name }}, {{ member.year }}. {{ member.next }} 
+{% if member.website == null %}
+  {{ member.name }}, {{ member.year }}. {{ member.next }} 
+
+{% else %}
+  <a href="{{ member.website }}">{{ member.name }}</a>, {{ member.year }}. {{ member.next }} 
+
+{% endif %}
+
 {% endfor %}
+
   <h4><b>UCSD BS/Masters Alumni & Visitors</b></h4>
   <a href="https://gvanhorn38.github.io">Grant Van Horn</a><br>
   <a href="https://www.linkedin.com/in/phuc-nguyen-60b4a22b">Phuc X. Nguyen</a><br>
