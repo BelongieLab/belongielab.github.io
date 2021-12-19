@@ -132,33 +132,32 @@ permalink: /team/
 {{ member.name }}, {{ member.year }}. {{ member.next }} 
 {% endfor %}
   <h4><b>UCSD BS/Masters Alumni & Visitors</b></h4>
-  Grant Van Horn<br>
-  Phuc X. Nguyen<br>
-  Andrew Ziegler<br>
-  Prasanna Krishnasamy<br>
+  [Grant Van Horn](https://gvanhorn38.github.io/)<br>
+  [Phuc X. Nguyen](https://www.linkedin.com/in/phuc-nguyen-60b4a22b/)<br>
+  [Andrew Ziegler](https://www.linkedin.com/in/andrewmziegler/)<br>
+  [Prasanna Krishnasamy](https://sites.google.com/site/prsnnvk/)<br>
   Nick True<br>
-  Tess Winlock<br>
+  [Tess Winlock](https://www.linkedin.com/in/twinlock/)<br>
   Fred Birchmore<br>
-  Nadav Ben-Haim<br>
-  Tom Duerig<br>
-  Louka Dlagnekov<br>
-  Diem Vu<br>
-  Stine Harder<br>
-  Tomas Matera<br>
-  Chong Cao<br>
-  Antoni Chan<br>
-  Kyong Mu Lee<br>
-  Ana Cristina Murillo<br>
-  Kris Kitani<br>
+  [Nadav Ben-Haim](https://www.linkedin.com/in/naydav/)<br>
+  [Tom Duerig](http://tomduerig.com/)<br>
+  [Louka Dlagnekov](http://vision.ucsd.edu/person/louka-dlagnekov)<br>
+  [Diem Vu](https://www.linkedin.com/in/diem-vu-277a49/)<br>
+  [Stine Harder](https://www.linkedin.com/in/stine-harder-b1953299/)<br>
+  [Chong Cao](http://vision.ucsd.edu/person/chong-cao)<br>
+  [Antoni Chan](https://www.cs.cityu.edu.hk/~abchan/)<br>
+  [Kyong Mu Lee](https://ee.snu.ac.kr/en/faculty/professor?mode=view&profid=p061)<br>
+  [Ana Cristina Murillo](https://sites.google.com/unizar.es/anac)<br>
+  [Kris Kitani](http://www.cs.cmu.edu/~kkitani/)<br>
   Tsubasa Yoshida<br>
-  Peter Faymonville<br>
+  [Peter Faymonville](https://www.react.uni-saarland.de/people/faymonville.html)<br>
   Masaaki Kokawa<br>
   Valentin Leonardi<br>
-  Michele Merler<br>
+  [Michele Merler](http://www.michelemerler.com/)<br>
   Jocelyn Cambria<br>
-  Robin Hewitt<br>
-  John Miller<br>
-  Stephan Steinbach<br>
+  [Robin Hewitt](https://www.linkedin.com/in/robinhewitt/)<br>
+  [John Miller](https://www.linkedin.com/in/john-miller-36735b8/)<br>
+  [Stephan Steinbach](https://www.linkedin.com/in/stephan-steinbach-84b0044/)<br>
 </div>
 
 </div>
