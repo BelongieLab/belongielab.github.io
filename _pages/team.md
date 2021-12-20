@@ -108,30 +108,30 @@ permalink: /team/
 
 {% endfor %}
   <h4><b>Cornell BS/Masters Alumni & Visitors</b></h4>
-  Pragya Verma<br>
-  Philip Su<br>
-  Andrew Mendez<br>
-  Debarun Dhar<br>
-  Tomáš Matera<br>
-  Bicheng Gao<br>
-  Xiaoyan Wu<br>
-  Jiaqi Su<br>
-  Sam Hoffman<br>
-  Dilip Thiagarajan<br>
-  Alvin Zhu<br>
-  Isay Katsman<br>
-  Xi Chen<br>
-  Tharun Sankar<br>
-  Jeremy Feinstein<br>
-  Rohit Jain<br>
-  Jonathan Huang<br>
+  <a href="https://vision.cornell.edu/se3/people/pragya-verma/">Pragya Verma</a><br>
+  <a href="https://www.linkedin.com/in/philipsu522">Philip Su</a><br>
+  <a href="https://www.linkedin.com/in/philipsu522">Andrew Mendez</a><br>
+  <a href="https://www.linkedin.com/in/debarundhar5">Debarun Dhar</a><br>
+  <a href="http://vision.ucsd.edu/person/tomas-matera">Tomáš Matera</a><br>
+  <a href="https://www.linkedin.com/in/bicheng-gao-1b719266">Bicheng Gao</a><br>
+  <a href="https://www.linkedin.com/in/xiaoyan-wu">Xiaoyan Wu</a><br>
+  <a href="https://www.cs.princeton.edu/~jiaqis/personal-website/index.php">Jiaqi Su</a><br>
+  <a href="https://www.linkedin.com/in/shoffman5">Sam Hoffman</a><br>
+  <a href="https://dthiagarajan.github.io/">Dilip Thiagarajan</a><br>
+  <a href="https://www.linkedin.com/in/yzhu1996">Alvin Zhu</a><br>
+  <a href="https://isaykatsman.github.io/">Isay Katsman</a><br>
+  <a href="https://vision.cornell.edu/se3/people/xi-chen/">Xi Chen</a><br>
+  <a href="https://www.linkedin.com/in/tharun-sankar-400501132">Tharun Sankar</a><br>
+  <a href="http://jeremyfeinstein.com">Jeremy Feinstein</a><br>
+  <a href="https://www.linkedin.com/in/rj288">Rohit Jain</a><br>
+  <a href="https://www.linkedin.com/in/gnauhnoj">Jonathan Huang</a><br>
   Arnaud Brejeon<br>
   Jan Jakeš<br>
   <a href="https://sites.google.com/site/dglasner/home">Daniel Glasner</a><br>
-  Baoguang Shi<br>
-  Chensu Xie<br>
-  Yiwei Bai<br>
-  Yurong Yu<br>
+  <a href="https://www.microsoft.com/en-us/research/people/bashi/">Baoguang Shi</a><br>
+  <a href="http://thomasfuchslab.org/cx">Chensu Xie</a><br>
+  <a href="http://thomasfuchslab.org/cx">Yiwei Bai</a><br>
+  <a href="https://yurongyou.com/">Yurong Yu</a><br>
 </div>
 
 <div class="col-sm-6 clearfix">
