@@ -1,55 +1,69 @@
 - name: Eric Christiansen
   year: 2018
   next: Google
+  website: https://research.google/people/EricChristiansen
 
 - name: Subarna Tripathi
   year: 2018
   next: Intel AI
+  website: https://subarnatripathi.github.io
 
 - name: Catherine Wah
   year: 2014
   next: Google
+  website: http://www.catherinewah.com/
 
 - name: Kai Wang
   year: 2013
   next: Zoox
+  website: https://www.linkedin.com/in/shiaokai
 
 - name: Boris Babenko
   year: 2012
   next: Google
+  website: https://bbabenko.github.io
 
 - name: Steve Branson
   year: 2012
   next: Facebook
+  website: http://www.vision.caltech.edu/sbranson
 
 - name: Carolina Galleguillos
   year: 2011
   next: Google
+  website: https://www.linkedin.com/in/carolinagalleguillos
 
 - name: Vincent Rabaud
   year: 2009
   next: Google
+  website: https://fr.linkedin.com/in/vincent-rabaud-3b592268
 
 - name: Andrew Rabinovich
   year: 2008
-  next: Headroom
+  next: Headroom, Inc.
+  website: https://www.linkedin.com/in/andrew-rabinovich-28556014
 
 - name: Kristin Branson
   year: 2007
   next: Janelia Labs
+  website: https://www.janelia.org/people/kristin-branson
 
 - name: Piotr Dollár
   year: 2007
   next: Facebook AI Research
+  website: https://pdollar.github.io
 
 - name: Ben Ochoa
   year: 2007
   next: KBR
+  website: https://cseweb.ucsd.edu/~bochoa
 
 - name: Sameer Agarwal
   year: 2006
   next: Google
+  website: https://research.google/people/author39771
 
 - name: Josh Wills
   year: 2006
   next: Google
+  website: https://www.linkedin.com/in/josh-wills-1a806030
