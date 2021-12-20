@@ -127,7 +127,7 @@ permalink: /team/
   Jonathan Huang<br>
   Arnaud Brejeon<br>
   Jan Jakeš<br>
-  Daniel Glasner<br>
+  <a href="https://sites.google.com/site/dglasner/home">Daniel Glasner</a><br>
   Baoguang Shi<br>
   Chensu Xie<br>
   Yiwei Bai<br>
