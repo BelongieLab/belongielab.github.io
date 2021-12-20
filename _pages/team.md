@@ -168,9 +168,9 @@ permalink: /team/
   Tsubasa Yoshida<br>
   <a href="https://www.react.uni-saarland.de/people/faymonville.html">Peter Faymonville</a><br>
   Masaaki Kokawa<br>
-  Valentin Leonardi<br>
+  <a href="https://fr.linkedin.com/in/valentin-leonardi-5a6195105">Valentin Leonardi</a><br>
   <a href="http://www.michelemerler.com">Michele Merler</a><br>
-  Jocelyn Cambria<br>
+  <a href="https://jp.linkedin.com/in/jocelyn-cambria-594812a">Jocelyn Cambria</a><br>
   <a href="https://www.linkedin.com/in/robinhewitt">Robin Hewitt</a><br>
   <a href="https://www.linkedin.com/in/john-miller-36735b8">John Miller</a><br>
   <a href="https://www.linkedin.com/in/stephan-steinbach-84b0044">Stephan Steinbach</a><br>
