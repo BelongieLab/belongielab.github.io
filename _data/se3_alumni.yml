@@ -1,35 +1,42 @@
 - name: Omid Poursaeed
   year: 2020
   next: Facebook AI
-  website: https://omidpoursaeed.github.io/
+  website: https://omidpoursaeed.github.io
 
 - name: Xun Huang
   year: 2020
   next: NVIDIA
+  website: https://www.cs.cornell.edu/~xhuang
   
 - name: Yin Cui
   year: 2019
   next: Google Research
+  website: https://ycui.me/
 
 - name: Kimberly Wilber
   year: 2018
   next: Google Research
+  website: https://www.notion.so/kjw/Kimberly-Wilber-42d24a4e3c914095934c5f5358ea9f67
 
 - name: Andreas Veit
   year: 2018
   next: Google Research
+  website: https://www.andreasveit.eu
 
 - name: Mohammad Moghimi
   year: 2017
   next: Google Research
+  website: https://www.linkedin.com/in/mohammadmoghimi
 
 - name: Hani Altwaijry
   year: 2017
   next: Apple
+  website: https://vision.cornell.edu/se3/people/hani-altwaijry
 
 - name: Tsung-Yi Lin
   year: 2017
   next: Google Brain
+  website: https://tsungyilin.info
 
 
   
