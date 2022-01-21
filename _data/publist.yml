@@ -8,6 +8,18 @@
   title: Language-driven Semantic Segmentation
   venue: 'International Conference on Learning Representations (ICLR), '
   year: '2022'
+- author: "Piotr Doll\xE1r, Ron Appel, Serge Belongie, Pietro Perona"
+  date: 'to appear'
+  journal: IEEE Transactions on Pattern Analysis and Machine Intelligence
+  keywords: ''
+  link:
+    display: PDF
+    url: /se3/wp-content/uploads/2014/09/DollarPAMI14pyramids_0.pdf
+  pub_type: article
+  ref: Wei2022
+  title: this is a test
+  venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, '
+  year: '2022'
 - author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
   link: 
     display: ABS
