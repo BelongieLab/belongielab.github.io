@@ -24,28 +24,16 @@
   journal: Frontiers in Plant Science
   keywords: fine-grained visual recognition
   link:
-    display: PDF
-    url: https://vision.cornell.edu/se3/wp-content/uploads/2020/09/aps3.11390.pdf
-  number: '9'
+    display: ABS
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2021.787127/abstract
+  number: ''
   pub_type: article
   ref: DeLutio2022
   title: 'The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition'
   venue: 'Frontiers in Plant Science, to appear, '
-  volume: '8'
-  year: '2022'
-- author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
-  link: 
-    display: ABS
-    url: https://www.frontiersin.org/articles/10.3389/fpls.2021.787127/abstract
-  pub_type: article
-  ref: DeLutio2022x
-  title: 'The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition'
-  venue: 'Frontiers in Plant Science, '
-  number: ''
   volume: ''
-  year: 2022
-- address: Virtual  
-  author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
+  year: '2022'
+- author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
     display: PDF
     url: http://vladlen.info/papers/neural-fields.pdf
@@ -53,6 +41,7 @@
   ref: Yang2021
   title: Geometry Processing with Neural Fields
   venue: 'Neural Information Processing Systems (NeurIPS), Virtual, '
+  address: Virtual
   year: '2021'
 - author: "Andrew Atkins, Serge Belongie, Harald Haraldsson"
   link:
