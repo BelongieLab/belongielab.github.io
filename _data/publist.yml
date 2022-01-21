@@ -19,6 +19,15 @@
   title: "Fine-Grained Image Analysis with Deep Learning: A Survey"
   venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, '
   year: '2022'
+- author: "Andrew Atkins, Serge Belongie, Harald Haraldsson"
+  link:
+    display: ABS
+    url: https://dl.acm.org/doi/10.1145/3474349.3480227
+  pub_type: conference
+  ref: Atkins2021
+  title: Continuous Travel In Virtual Reality Using a 3D Portal
+  venue: 'User Interface Software and Technology (UIST), '
+  year: '2021'
 - author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
   link: 
     display: ABS
