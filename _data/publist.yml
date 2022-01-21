@@ -19,15 +19,20 @@
   title: "Fine-Grained Image Analysis with Deep Learning: A Survey"
   venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, '
   year: '2022'
-- author: "Andrew Atkins, Serge Belongie, Harald Haraldsson"
+- author: testing 1 2 3, Ranjita Thapa, Kai Zhang, Noah Snavely, Serge Belongie, Awais Khan
+  date: '2022-09-30'
+  journal: Applications in Plant Sciences
+  keywords: fine-grained visual recognition
   link:
-    display: ABS
-    url: https://dl.acm.org/doi/10.1145/3474349.3480227
-  pub_type: conference
-  ref: Atkins2021
-  title: Continuous Travel In Virtual Reality Using a 3D Portal
-  venue: 'User Interface Software and Technology (UIST), '
-  year: '2021'
+    display: PDF
+    url: https://vision.cornell.edu/se3/wp-content/uploads/2020/09/aps3.11390.pdf
+  number: '9'
+  pub_type: article
+  ref: Thapa2020b
+  title: this is a test
+  venue: 'Frontiers in Plant Sciences, to appear, '
+  volume: '8'
+  year: '2022'
 - author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
   link: 
     display: ABS
@@ -48,6 +53,15 @@
   ref: Yang2021
   title: Geometry Processing with Neural Fields
   venue: 'Neural Information Processing Systems (NeurIPS), Virtual, '
+  year: '2021'
+- author: "Andrew Atkins, Serge Belongie, Harald Haraldsson"
+  link:
+    display: ABS
+    url: https://dl.acm.org/doi/10.1145/3474349.3480227
+  pub_type: conference
+  ref: Atkins2021
+  title: Continuous Travel In Virtual Reality Using a 3D Portal
+  venue: 'User Interface Software and Technology (UIST), '
   year: '2021'
 - address: Virtual
   author: Jiyang Qi, Yan Gao, Yao Hu, Xinggang Wang, Xiaoyu Liu, Xiang Bai, Serge Belongie, Alan Yuille, Philip HS Torr, Song Bai
