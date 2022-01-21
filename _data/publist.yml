@@ -8,6 +8,15 @@
   venue: International Conference on Learning Representations (ICLR)
   year: '2022'
 - address: Virtual  
+  author: 
+  link: 
+    display: ABS
+    url: https://www.frontiersin.org/articles/10.3389/fpls.2021.787127/abstract
+  pub_type: article
+  ref: DeLutio2022
+  title: The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition
+  venue: Frontiers in Plant Science
+- year: 2022
   author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
     display: PDF
