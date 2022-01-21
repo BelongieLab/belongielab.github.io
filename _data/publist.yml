@@ -1,9 +1,21 @@
 - author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
     display: PDF
-    url: ''
+    url: http://vladlen.info/papers/neural-fields.pdf
+  pub_type: conference
+  ref: Yang2021
   title: Geometry Processing with Neural Fields
   venue: 'Neural Information Processing Systems (NeurIPS), Virtual, '
+  year: '2021'
+- address: Virtual
+  author: Jiyang Qi, Yan Gao, Yao Hu, Xinggang Wang, Xiaoyu Liu, Xiang Bai, Serge Belongie, Alan Yuille, Philip HS Torr, Song Bai
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2102.01558
+  pub_type: conference
+  ref: Qi2021
+  title: Occluded Video Instance Segmentation: A Benchmark
+  venue: 'Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, Virtual, '
   year: '2021'
 - address: Virtual
   author: Omid Poursaeed, Tianxing Jiang, Harry Yang, Serge Belongie, Ser-Nam Lim
