@@ -19,18 +19,18 @@
   title: "Fine-Grained Image Analysis with Deep Learning: A Survey"
   venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, '
   year: '2022'
-- author: testing 1 2 3, Ranjita Thapa, Kai Zhang, Noah Snavely, Serge Belongie, Awais Khan
+- author: Riccardo de Lutio, testing 1 2 3, Ranjita Thapa, Kai Zhang, Noah Snavely, Serge Belongie, Awais Khan
   date: '2022-09-30'
-  journal: Applications in Plant Sciences
+  journal: Frontiers in Plant Science
   keywords: fine-grained visual recognition
   link:
     display: PDF
     url: https://vision.cornell.edu/se3/wp-content/uploads/2020/09/aps3.11390.pdf
   number: '9'
   pub_type: article
-  ref: Thapa2020b
-  title: this is a test
-  venue: 'Frontiers in Plant Sciences, to appear, '
+  ref: DeLutio2022
+  title: 'The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition'
+  venue: 'Frontiers in Plant Science, to appear, '
   volume: '8'
   year: '2022'
 - author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
@@ -38,7 +38,7 @@
     display: ABS
     url: https://www.frontiersin.org/articles/10.3389/fpls.2021.787127/abstract
   pub_type: article
-  ref: DeLutio2022
+  ref: DeLutio2022x
   title: 'The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition'
   venue: 'Frontiers in Plant Science, '
   number: ''
