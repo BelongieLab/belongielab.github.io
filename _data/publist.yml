@@ -1,14 +1,4 @@
-- author: Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl
-  link:
-    display: PDF
-    url: ''
-  pub_type: conference
-  ref: Li2022
-  title: Language-driven Semantic Segmentation
-  venue: International Conference on Learning Representations (ICLR)
-  year: '2022'
-- address: Virtual  
-  author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
+- author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
     display: PDF
     url: http://vladlen.info/papers/neural-fields.pdf
