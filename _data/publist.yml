@@ -1,4 +1,5 @@
-- author: "Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl"
+- address: Virtual
+  author: "Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl"
   link:
     display: PDF
     url: ''
@@ -7,8 +8,7 @@
   title: Language-driven Semantic Segmentation
   venue: International Conference on Learning Representations (ICLR)
   year: '2022'
-- address: Virtual  
-  author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
+- author: "Riccardo de Lutio, John Y. Park, Kimberly A. Watson, Stefano D'Aronco, Jan D. Wegner, Jan J. Wieringa, Melissa Tulig, Richard L. Pyle, Timothy J. Gallaher, Gillian Brown, Gordon Guymer, Andrew Franks, Dhahara Ranatunga, Yumiko Baba, Serge J. Belongie, Fabi\xE1n A. Michelangeli, Barbara A. Ambrose, Damon P. Little"
   link: 
     display: ABS
     url: https://www.frontiersin.org/articles/10.3389/fpls.2021.787127/abstract
@@ -18,7 +18,8 @@
   venue: 'Frontiers in Plant Science, '
   number: ''
   volume: ''
-- year: 2022
+  year: 2022
+- address: Virtual  
   author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
     display: PDF
