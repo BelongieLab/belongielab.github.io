@@ -15,7 +15,7 @@
   pub_type: article
   ref: DeLutio2022
   title: The Herbarium 2021 Half-Earth Challenge Dataset and Machine Learning Competition
-  venue: Frontiers in Plant Science
+  venue: 'Frontiers in Plant Science, '
 - year: 2022
   author: Guandao Yang, Serge Belongie, Bharath Hariharan, Vladlen Koltun
   link:
