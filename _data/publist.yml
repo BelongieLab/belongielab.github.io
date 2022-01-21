@@ -77,7 +77,7 @@
   year: '2021'
 - address: Virtual
   author: Gui-Song Xia, Jian Ding, Ming Qian, Nan Xue, Jiaming Han, Xiang Bai, Michael Ying Yang, Shengyang Li, Serge Belongie, Jiebo Luo, Mihai Datcu, Marcello Pelillo, Liangpei Zhang
-  booktitle: Computer Vision and Pattern Recognition (CVPR)
+  booktitle: Computer Vision and Pattern Recognition Workshops (CVPRW)
   date: '2021-06-21'
   keywords: aerial images, object detection
   link:
@@ -86,7 +86,7 @@
   pub_type: conference
   ref: Xia2021
   title: LUAI Challenge 2021 on Learning to Understand Aerial Images
-  venue: 'Computer Vision and Pattern Recognition (CVPR), Virtual, '
+  venue: 'Computer Vision and Pattern Recognition Workshops (CVPRW), Virtual, '
   year: '2021'
 - address: Virtual
   author: Boyi Li\*, Felix Wu\*, Ser-Nam Lim, Serge Belongie, Kilian Weinberger
