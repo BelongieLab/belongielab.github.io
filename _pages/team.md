@@ -21,6 +21,7 @@ permalink: /team/
 <div class="col-sm-4 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
   <h4>{{ member.name }}</h4>
+  <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <i>{{ member.info }} <br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
