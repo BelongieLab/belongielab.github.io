@@ -1,8 +1,8 @@
 - address: Virtual
   author: "Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl"
   link:
-    display: PDF
-    url: ''
+    display: ABS
+    url: https://arxiv.org/abs/2201.03546
   pub_type: conference
   ref: Li2022
   title: Language-driven Semantic Segmentation
