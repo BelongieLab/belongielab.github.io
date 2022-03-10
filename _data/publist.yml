@@ -1,5 +1,15 @@
+- address: New Orleans
+  author: "Elijah Cole, Xuan Yang, Kimberly Wilber, Oisin Mac Aodha, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2105.05837
+  pub_type: conference
+  ref: Cole2022
+  title: When Does Contrastive Visual Representation Learning Work?
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2022'
 - address: Virtual
-  author: "Boyi Li, Kilian Q Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl"
+  author: "Boyi Li, Kilian Q. Weinberger, Serge Belongie, Vladlen Koltun, Ren\xE9 Ranftl"
   link:
     display: ABS
     url: https://arxiv.org/abs/2201.03546
