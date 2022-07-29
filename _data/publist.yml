@@ -1,8 +1,8 @@
 - address: Tel Aviv
-  author: Grant Van Horn\*, Grant and Rui Qian\*, Kimberly Wilber, Hartwig Adam, Oisin Mac Aodha, Serge Belongie
+  author: Grant Van Horn\*, Rui Qian\*, Kimberly Wilber, Hartwig Adam, Oisin Mac Aodha, Serge Belongie
   link:
     display: ABS
-    url: https://arxiv.org/abs/2207.10664?context=cs
+    url: https://arxiv.org/abs/2207.10664
   pub_type: conference
   ref: VanHorn2022
   title: Exploring Fine-grained Audiovisual Categorization
