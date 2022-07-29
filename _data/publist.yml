@@ -1,4 +1,13 @@
 - address: Tel Aviv
+  author: Elijah Cole, Kimberly Wilber, Grant Van Horn, Xuan Yang, Marco Fornoni, Pietro Perona, Serge Belongie, Andrew Howard, and Oisin Mac Aodha
+  title: On Label Granularity and Object Localization
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2207.10225
+  pub_type: conference
+  ref: Cole2022b
+  year: 2022
+- address: Tel Aviv
   author: Grant Van Horn\*, Rui Qian\*, Kimberly Wilber, Hartwig Adam, Oisin Mac Aodha, Serge Belongie
   link:
     display: ABS
