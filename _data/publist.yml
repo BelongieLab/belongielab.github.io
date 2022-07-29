@@ -1,3 +1,13 @@
+- address: New Orleans
+  author: Boyi Li, Serge Belongie, Ser-Nam Lim, Abe Davis
+  link:
+    display: ABS
+    url: https://openaccess.thecvf.com/content/CVPR2022W/CVFAD/html/Li_Neural_Image_Recolorization_for_Creative_Domains_CVPRW_2022_paper.html
+  pub_type: conference
+  ref: Li2022b
+  title: Neural Image Recolorization for Creative Domains
+  venue: CVPR Workshop on Computer Vision for Fashion, Art, and Design
+  year: '2022'
 - author: Jiyang Qi, Yan Gao, Yao Hu, Xinggang Wang, Xiaoyu Liu, Xiang Bai, Serge Belongie, Alan Yuille, Philip HS Torr, Song Bai
   date: '2022-08-01'
   editor: Springer
