@@ -1,3 +1,16 @@
+- author: Jiyang Qi, Yan Gao, Yao Hu, Xinggang Wang, Xiaoyu Liu, Xiang Bai, Serge Belongie, Alan Yuille, Philip HS Torr, Song Bai
+  date: '2022-08-01'
+  editor: Springer
+  journal: International Journal of Computer Vision (IJCV)
+  keywords: image segmentation
+  link:
+    display: ABS
+    url: https://link.springer.com/article/10.1007/s11263-022-01629-1
+  pub_type: article
+  ref: Qi2022
+  title: Occluded Video Instance Segmentation: A Benchmark
+  venue: 'International Journal of Computer Vision (IJCV), '
+  year: '2022'
 - address: Tel Aviv
   author: Elijah Cole, Kimberly Wilber, Grant Van Horn, Xuan Yang, Marco Fornoni, Pietro Perona, Serge Belongie, Andrew Howard, Oisin Mac Aodha
   link:
