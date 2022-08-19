@@ -1,3 +1,14 @@
+- address: Tel Aviv
+  author: Menglin Jia\*, Luming Tang\*, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2203.12119
+  pub_type: conference
+  ref: Jai2022a
+  title: Visual Prompt Tuning
+  venue: 'European Conference on Computer Vision (ECCV), '
+  note: ', (*Equal Contribution)'
+  year: '2022'
 - address: New Orleans
   author: Boyi Li, Serge Belongie, Ser-Nam Lim, Abe Davis
   link:
