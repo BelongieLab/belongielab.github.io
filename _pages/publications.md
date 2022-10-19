@@ -10,7 +10,7 @@ permalink: /publications/
 # Publications
 
 
-[Google Scholar](https://scholar.google.com/citations?user=ORr4XJYAAAAJ&hl=en)
+[Google Scholar](https://scholar.google.com/citations?user=chD5XxkAAAAJ)
 
 
 {% for pub_year in site.data.pubyears %}
