@@ -1,4 +1,14 @@
 - address: Tel Aviv
+  author: Boyi Li, Yin Cui, Tsung-Yi Lin, Serge Belongie
+  title: Single Image Texture Translation for Data Augmentation
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2106.13804
+  ref: Li2022c
+  venue: 'ECCV Workshop on Learning from Limited and Imperfect Data (L2ID), '
+  year: '2022'
+  pub_type: conference
+- address: Tel Aviv
   author: Menglin Jia\*, Luming Tang\*, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim
   link:
     display: ABS
