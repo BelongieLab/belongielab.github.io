@@ -1,3 +1,21 @@
+- address: New Orleans
+  title: Basis Encoded Polynomial Neural Fields for Subband Decomposition
+  author: Guandao Yang, Sagie Benaim, Varun Jampani, Kyle Genova, Jonathan Barron, Thomas Funkhouser, Serge Belongie, Bharath Hariharan
+  link:
+    display: ABS
+  ref: Yang2022
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2022'
+  pub_type: conference
+- address: New Orleans
+  title: Implicit Neural Representations with Levels-of-Experts
+  author: Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu
+  link:
+    display: ABS
+  ref: Hao2022
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2022'
+  pub_type: conference
 - address: Tel Aviv
   author: Boyi Li, Yin Cui, Tsung-Yi Lin, Serge Belongie
   title: Single Image Texture Translation for Data Augmentation
