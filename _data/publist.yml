@@ -9,6 +9,17 @@
   venue: 'European Conference on Computer Vision (ECCV), '
   note: ', (*Equal Contribution)'
   year: '2022'
+- address: Tel Aviv
+  author: Sebastian Loeschcke, Serge Belongie, Sagie Benaim
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2206.12396
+  pub_type: conference
+  ref: Loeschcke2022
+  title: Text-Driven Stylization of Video Objects
+  venue: 'ECCV Workshop on AI for Creative Video Editing and Understanding, '
+  note: ', (Best Paper Award)'
+  year: '2022'
 - address: New Orleans
   author: Boyi Li, Serge Belongie, Ser-Nam Lim, Abe Davis
   link:
