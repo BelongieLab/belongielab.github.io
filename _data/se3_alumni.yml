@@ -8,11 +8,16 @@
   next:
   website: https://kevinmusgrave.com/
 
+- name: Ryan Benmalek
+  year: 2023
+  next: Daimon Labs
+  website: https://ryanai3.github.io/
+
 - name: Boyi Li
   year: 2022
   next: NVIDIA & UC Berkeley
   website: https://sites.google.com/site/boyilics/home
-  
+
 - name: Omid Poursaeed
   year: 2020
   next: Facebook AI
@@ -22,7 +27,7 @@
   year: 2020
   next: NVIDIA
   website: https://www.cs.cornell.edu/~xhuang
-  
+
 - name: Yin Cui
   year: 2019
   next: Google Research
@@ -52,7 +57,3 @@
   year: 2017
   next: Google Brain
   website: https://tsungyilin.info
-
-
-  
-
