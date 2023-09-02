@@ -1,13 +1,13 @@
 - address: Paris
   title: Discriminative Class Tokens for Text-to-Image Diffusion Models
-  author: Idan Schwartz\*, V\xE9steinn Sn\xE6bjarnarson\*, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim
+  author: "Idan Schwartz\*, V\xE9steinn Sn\xE6bjarnarson\*, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim"
   link:
     display: ABS
     url: https://arxiv.org/abs/2303.17155
   ref: Schwartz2023
   venue: 'International Conference on Computer Vision (ICCV), '
   note: ', (*Equal Contribution)'
-  year: '2022'
+  year: '2023'
   pub_type: conference
 - address: New Orleans
   title: Basis Encoded Polynomial Neural Fields for Subband Decomposition
