@@ -1,3 +1,16 @@
+- address: Paris
+  author: Idan Schwartz, Vésteinn Snæbjarnarson, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim
+  booktitle: International Conference on Computer Vision (ICCV)
+  date: '2023-10-02'
+  keywords: Diffusion Models, Fine Grained Categories
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2303.17155
+  pub_type: conference
+  ref: Schwartz2023
+  title: Discriminative Class Tokens for Text-to-Image Diffusion Models
+  venue: 'International Conference on Computer Vision (ICCV), '
+  year: '2023'
 - address: New Orleans
   title: Basis Encoded Polynomial Neural Fields for Subband Decomposition
   author: Guandao Yang, Sagie Benaim, Varun Jampani, Kyle Genova, Jonathan Barron, Thomas Funkhouser, Serge Belongie, Bharath Hariharan
