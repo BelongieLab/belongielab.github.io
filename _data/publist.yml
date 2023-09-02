@@ -1,7 +1,7 @@
 - address: Paris
   title: Discriminative Class Tokens for Text-to-Image Diffusion Models
   # author: "Idan Schwartz, V\xE9steinn Sn\xE6bjarnarson, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim"
-  author: "Idan Schwartz<sup>&#42;</sup>, V\xE9steinn Sn\xE6bjarnarson<sup>&#42;</sup>, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim"
+  author: "Idan Schwartz&#42;, V\xE9steinn Sn\xE6bjarnarson&#42;, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim"
   link:
     display: ABS
     url: https://arxiv.org/abs/2303.17155
