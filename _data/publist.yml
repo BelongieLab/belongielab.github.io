@@ -13,6 +13,7 @@
   author: Guandao Yang, Sagie Benaim, Varun Jampani, Kyle Genova, Jonathan Barron, Thomas Funkhouser, Serge Belongie, Bharath Hariharan
   link:
     display: ABS
+    url: https://arxiv.org/abs/2302.04862
   ref: Yang2022
   venue: 'Neural Information Processing Systems (NeurIPS), '
   year: '2022'
@@ -22,6 +23,7 @@
   author: Zekun Hao, Arun Mallya, Serge Belongie, Ming-Yu Liu
   link:
     display: ABS
+    url: https://openreview.net/forum?id=St5q10aqLTO
   ref: Hao2022
   venue: 'Neural Information Processing Systems (NeurIPS), '
   year: '2022'
