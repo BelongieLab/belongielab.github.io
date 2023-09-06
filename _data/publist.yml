@@ -1,3 +1,13 @@
+- address: Vienna
+  title: Descriptive Attributes for Language-based Object Keypoint Detection
+  author: Jerod Weinman, Serge Belongie, Stella Frank
+  link:
+    display: PDF
+    url: https://weinman.cs.grinnell.edu/pubs/weinman23descriptive.pdf
+  ref: Weinman2023
+  venue: 'International Conference on Computer Vision Systems (ICVS), '
+  year: '2023'
+  pub_type: conference
 - address: Paris
   title: Discriminative Class Tokens for Text-to-Image Diffusion Models
   # author: "Idan Schwartz, V\xE9steinn Sn\xE6bjarnarson, Hila Chefer, Ryan Cotterell, Serge Belongie, Lior Wolf, Sagie Benaim"
