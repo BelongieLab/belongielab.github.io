@@ -109,7 +109,7 @@ permalink: /team/
 
 </div>
 
-## Master's Students
+## Master Students
 
 <div class="row">
 
