@@ -130,6 +130,21 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
+<h4> <b>DIKU SØ(3) PhD Alumni</b> </h4>
+{% for member in site.data.so3diku_alumni %}
+{% if member.website == null %}
+  {{ member.name }}, {{ member.year }}. {{ member.next }} 
+
+{% else %}
+  <a href="{{ member.website }}">{{ member.name }}</a>, {{ member.year }}. {{ member.next }} 
+
+{% endif %}
+
+{% endfor %}
+  <h4><b>DIKU BS/Masters Alumni & Visitors</b></h4>
+</div>
+
+<div class="col-sm-6 clearfix">
 <h4> <b>Cornell SE(3) PhD Alumni</b> </h4>
 {% for member in site.data.se3_alumni %}
 
