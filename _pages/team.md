@@ -41,7 +41,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Postdoc
+## Postdocs
 
 <div class="row">
 
@@ -130,7 +130,7 @@ permalink: /team/
 <div class="row">
 
 <div class="col-sm-6 clearfix">
-<h4> <b>DIKU SØ(3) PhD Alumni</b> </h4>
+<h4> <b>DIKU SØ(3) PhD/Postdoc</b> </h4>
 {% for member in site.data.so3diku_alumni %}
 {% if member.website == null %}
   {{ member.name }}, {{ member.year }}. {{ member.next }} 
@@ -141,11 +141,11 @@ permalink: /team/
 {% endif %}
 
 {% endfor %}
-  <h4><b>DIKU BS/Masters Alumni & Visitors</b></h4>
+  <h4><b>DIKU BSc/MSc & Visitors</b></h4>
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4> <b>Cornell SE(3) PhD Alumni</b> </h4>
+<h4> <b>Cornell SE(3) PhD</b> </h4>
 {% for member in site.data.se3_alumni %}
 
 {% if member.website == null %}
@@ -157,7 +157,7 @@ permalink: /team/
 {% endif %}
 
 {% endfor %}
-  <h4><b>Cornell BS/Masters Alumni & Visitors</b></h4>
+  <h4><b>Cornell BS/Masters & Visitors</b></h4>
   <a href="https://vision.cornell.edu/se3/people/pragya-verma/">Pragya Verma</a><br>
   <a href="https://www.linkedin.com/in/philipsu522">Philip Su</a><br>
   <a href="https://www.linkedin.com/in/philipsu522">Andrew Mendez</a><br>
@@ -185,7 +185,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4> <b>UCSD SO(3) PhD Alumni</b> </h4>
+<h4> <b>UCSD SO(3) PhD</b> </h4>
 {% for member in site.data.so3_alumni %}
 {% if member.website == null %}
   {{ member.name }}, {{ member.year }}. {{ member.next }} 
@@ -197,7 +197,7 @@ permalink: /team/
 
 {% endfor %}
 
-  <h4><b>UCSD BS/Masters Alumni & Visitors</b></h4>
+  <h4><b>UCSD BS/Masters & Visitors</b></h4>
   <a href="https://gvanhorn38.github.io">Grant Van Horn</a><br>
   <a href="https://www.linkedin.com/in/phuc-nguyen-60b4a22b">Phuc X. Nguyen</a><br>
   <a href="https://www.linkedin.com/in/andrewmziegler">Andrew Ziegler</a><br>
