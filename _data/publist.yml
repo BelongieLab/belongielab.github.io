@@ -1,3 +1,13 @@
+- address: New Orleans
+  title: Learning to Taste: A Multimodal Wine Dataset
+  author: Thoranna Bender, Simon Moe Soerensen, Alireza Kashani, Kristjan Eldjarn, Grethe Hyldig, Soeren Hauberg, Serge Belongie and Frederik Warburg
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2308.16900
+  ref: Bender2023
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2023'
+  pub_type: conference
 - address: Vienna
   title: Descriptive Attributes for Language-based Object Keypoint Detection
   author: Jerod Weinman, Serge Belongie, Stella Frank
