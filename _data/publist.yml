@@ -2930,8 +2930,8 @@
   date: '2005-01-01'
   keywords: ''
   link:
-    display: PDF
-    url: ''
+    display: Dataset
+    url: https://www.belongielab.org/car_data.html
   number: CS2005-083
   pub_type: techreport
   ref: Array
