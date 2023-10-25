@@ -1,3 +1,14 @@
+- author: 'Sagie Benaim, Frederik Warburg, Peter Ebert Christensen, Serge Belongie '
+  date: '2024-01-04'
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2206.02776
+  pub_type: conference
+  ref: Benaim2024a
+  title: 'Volumetric Disentanglement for 3D Scene Manipulation'
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
+  address: 'Waikoloa, Hawaii'
+  year: '2024'
 - address: New Orleans
   title: "Learning to Taste: A Multimodal Wine Dataset"
   author: "Thoranna Bender, Simon Moe S\xF8rensen, Alireza Kashani, Kristjan Eldjarn, Grethe Hyldig, S\xF8ren Hauberg, Serge Belongie and Frederik Warburg"
