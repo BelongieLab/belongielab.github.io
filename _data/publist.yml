@@ -1,3 +1,14 @@
+- author: "Peter Ebert Christensen, V\xE9steinn Sn\xE6bjarnarson&#42;, Andrea Dittadi, Serge Belongie, Sagie Benaim"
+  date: '2024-01-04'
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2211.09782
+  pub_type: conference
+  ref: Christensen2024a
+  title: 'Assessing Neural Network Robustness via Adversarial Pivotal Tuning'
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
+  address: 'Waikoloa, Hawaii'
+  year: '2024'
 - author: 'Sagie Benaim, Frederik Warburg, Peter Ebert Christensen, Serge Belongie '
   date: '2024-01-04'
   link:
