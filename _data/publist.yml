@@ -5,7 +5,7 @@
     display: PDF
     url: 2023_Familiarity-Based_Open-Set_Recognition_Under_Adversarial_Attacks
   ref: Enevoldsen
-  venue: 'Workshop on Out-of-Distribution Generalization in Computer Vision (OOD-CV), '
+  venue: 'ICCV Workshop on Out-of-Distribution Generalization in Computer Vision (OOD-CV), '
   year: '2023'
   pub_type: conference
 - author: "Peter Ebert Christensen, V\xE9steinn Sn\xE6bjarnarson, Andrea Dittadi, Serge Belongie, Sagie Benaim"
