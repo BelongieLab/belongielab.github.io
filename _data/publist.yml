@@ -2,9 +2,9 @@
   title: Familiarity-Based Open-Set Recognition Under Adversarial Attacks
   author: Philip Enevoldsen, Christian Gundersen, Nico Lang, Serge Belongie, Christian Igel
   link:
-    display: PDF
-    url: https://drive.google.com/file/d/1taMLovFi4A6KQMGhlQvmhTPS3f6FvFHg/view?usp=drive_link
-  ref: Enevoldsen
+    display: ABS
+    url: https://arxiv.org/abs/2311.05006
+  ref: Enevoldsen2023
   venue: 'ICCV Workshop on Out-of-Distribution Generalization in Computer Vision (OOD-CV), '
   year: '2023'
   pub_type: conference
