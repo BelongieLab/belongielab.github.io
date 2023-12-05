@@ -4,15 +4,15 @@
 
 - name: Menglin Jia
   photo: menglin.jpg
-  website: https://kmnp.github.io/ d
+  website: https://kmnp.github.io/
+
+- name: Vésteinn Snæbjarnarson
+  photo: vesteinn.jpg
+  website: https://vesteinn.is/
 
 - name: Katie Luo
   photo: katie.jpg
   website: https://www.cs.cornell.edu/~katieluo/
-
-- name: Vésteinn Snæbjarnarson
-  photo: vesteinn.jpg
-  website: https://vesteinn.is
 
 - name: Peter Ebert Christensen
   photo: peter.jpg
@@ -21,7 +21,7 @@
 - name: Sebastian Loeschcke
   photo: sebastian.jpg
   website: https://sloeschcke.github.io/
-  
+
 - name: Srishti Yadav
   photo: srishti.jpg
   website: https://srishti.dev/
