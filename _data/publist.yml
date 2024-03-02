@@ -1,4 +1,14 @@
 - address: Seattle
+  author: "Nico Lang, Vésteinn Snæbjarnarson, Elijah Cole, Oisin Mac Aodha, Christian Igel, Serge Belongie"
+  link:
+    display: ABS
+    url: https://langnico.github.io
+  pub_type: conference
+  ref: Lang2024
+  title: From Coarse to Fine-Grained Open-Set Recognition
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2024'
+- address: Seattle
   author: "Zhaochong An, Guolei Sun, Yun Liu, Fayao Liu, Zongwei Wu, Dan Wang, Luc Van Gool, Serge Belongie"
   link:
     display: ABS
