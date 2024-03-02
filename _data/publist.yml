@@ -1,3 +1,13 @@
+- address: Seattle
+  author: "Zhaochong An, Guolei Sun, Yun Liu, Fayao Liu, Zongwei Wu, Dan Wang, Luc Van Gool, Serge Belongie"
+  link:
+    display: ABS
+    url: https://zhaochongan.github.io
+  pub_type: conference
+  ref: An2024
+  title: Rethinking Few-shot 3D Point Cloud Semantic Segmentation
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2024'
 - address: Paris
   title: Familiarity-Based Open-Set Recognition Under Adversarial Attacks
   author: Philip Enevoldsen, Christian Gundersen, Nico Lang, Serge Belongie, Christian Igel
