@@ -12,7 +12,7 @@
   author: "Zhaochong An, Guolei Sun, Yun Liu, Fayao Liu, Zongwei Wu, Dan Wang, Luc Van Gool, Serge Belongie"
   link:
     display: ABS
-    url: https://zhaochongan.github.io
+    url: https://arxiv.org/abs/2403.00592
   pub_type: conference
   ref: An2024
   title: Rethinking Few-shot 3D Point Cloud Semantic Segmentation
