@@ -1,3 +1,13 @@
+- address: 'Madison, WI'
+  author: Stella Frank, Serge Belongie
+  link:
+    display: ABS
+    url: https://scfrank.github.io
+  pub_type: conference
+  ref: Frank2024a
+  title: Feature transmission within concept transmission
+  venue: 'International Conference on the Evolution of Language (Evolang), '
+  year: '2024'
 - address: Seattle
   author: "Nico Lang, Vésteinn Snæbjarnarson, Elijah Cole, Oisin Mac Aodha, Christian Igel, Serge Belongie"
   link:
