@@ -48,7 +48,7 @@ permalink: /team/
 {% for member in site.data.postdoc_members %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="width: 150px; height: 150px; object-fit: cover; float: up" />
   <h4>{{ member.name }}</h4>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
@@ -65,7 +65,7 @@ permalink: /team/
 {% for member in site.data.phd_members %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="width: 150px; height: 150px; object-fit: cover; float: up"/>
   <h4>{{ member.name }}</h4>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
@@ -82,7 +82,7 @@ permalink: /team/
 {% for member in site.data.ra_members %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="width: 150px; height: 150px; object-fit: cover; float: up" />
   <h4>{{ member.name }}</h4>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
@@ -99,7 +99,7 @@ permalink: /team/
 {% for member in site.data.vr_members %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="width: 150px; height: 150px; object-fit: cover; float: up" />
   <h4>{{ member.name }}</h4>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
@@ -116,7 +116,7 @@ permalink: /team/
 {% for member in site.data.master_members %}
 
 <div class="col-sm-4 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="float: up" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="50%" style="width: 150px; height: 150px; object-fit: cover; float: up" />
   <h4>{{ member.name }}</h4>
   <h5> <a href="{{ member.website }}">Personal website</a> </h5>
   <ul style="overflow: hidden"></ul>
