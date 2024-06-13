@@ -1,3 +1,13 @@
+- address: Vienna
+  author: "Sebastian Loeschcke, Dan Wang, Christian Leth-Espensen, Serge Belongie, Michael J. Kastoryano, Sagie Benaim"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2406.04332
+  pub_type: conference
+  ref: Loeschcke2024a
+  title: Coarse-To-Fine Tensor Trains for Compact Visual Representations
+  venue: 'International Conference on Machine Learning (ICML), '
+  year: '2024'
 - address: 'Madison, WI'
   author: Stella Frank, Serge Belongie
   link:
