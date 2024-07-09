@@ -15,7 +15,7 @@
     url: https://arxiv.org/abs/2405.02771
   pub_type: conference
   ref: Nedungadi2024a
-  title: MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning
+  title: "MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning"
   venue: 'European Conference on Computer Vision (ECCV), '
   year: '2024'
 - address: Vienna
