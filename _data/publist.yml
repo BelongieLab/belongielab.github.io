@@ -1,3 +1,23 @@
+- address: Milan
+  author: "Bingchen Zhao, Nico Lang, Serge Belongie, Oisin Mac Aodha"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2406.04898
+  pub_type: conference
+  ref: Zhao2024a
+  title: Labeled Data Selection for Category Discovery
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2024'
+- address: Milan
+  author: "Vishal Nedungadi, Ankit Kariryaa, Stefan Oehmcke, Serge Belongie, Christian Igel, Nico Lang"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2405.02771
+  pub_type: conference
+  ref: Nedungadi2024a
+  title: MMEarth: Exploring Multi-Modal Pretext Tasks For Geospatial Representation Learning
+  venue: 'European Conference on Computer Vision (ECCV), '
+  year: '2024'
 - address: Vienna
   author: "Sebastian Loeschcke, Dan Wang, Christian Leth-Espensen, Serge Belongie, Michael J. Kastoryano, Sagie Benaim"
   link:
