@@ -1,10 +1,9 @@
 - author: "John Park, Riccardo de Lutio, Brendan Rappazzo, Barbara Ambrose, Fabian Michelangeli, Kimberly Watson, Serge Belongie, Damon Little"
   date: '2024-06-01'
-  journal: Journal of Data-centric Machine Learning Research
+  journal: 'Journal of Data centric Machine Learning Research'
   link:
     display: PDF
     url: https://data.mlr.press/assets/pdf/v01-9.pdf
-  number: ''
   pub_type: article
   ref: Park2024
   title: 'NAFlora-1M: Continental-Scale High-Resolution Fine-Grained Plant Classification Dataset'
