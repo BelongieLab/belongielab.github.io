@@ -1,13 +1,13 @@
-- author: "John Park, Riccardo de Lutio, Brendan Rappazzo, Barbara Ambrose, Fabian Michelangeli, Kimberly Watson, Serge Belongie, Damon Little"
+- author: John Park, Riccardo de Lutio, Brendan Rappazzo, Barbara Ambrose, Fabian Michelangeli, Kimberly Watson, Serge Belongie, Damon Little
   date: '2024-06-01'
-  journal: 'Journal of Data centric Machine Learning Research'
+  keywords: fine grained visual categorization, botany
   link:
     display: PDF
     url: https://data.mlr.press/assets/pdf/v01-9.pdf
   pub_type: article
   ref: Park2024
-  title: 'NAFlora-1M: Continental-Scale High-Resolution Fine-Grained Plant Classification Dataset'
-  volume: '9'
+  title: "NAFlora-1M: Continental-Scale High-Resolution Fine-Grained Plant Classification Dataset"
+  venue: 'Journal of Data centric Machine Learning Research (DMLR), '
   year: '2024'
 - address: Milan
   author: "Bingchen Zhao, Nico Lang, Serge Belongie, Oisin Mac Aodha"
