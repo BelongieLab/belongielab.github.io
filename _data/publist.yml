@@ -1,3 +1,14 @@
+- address: Vancouver
+  title: "LoQT: Low-Rank Adapters for Quantized Pre-Training"
+  author: "Sebastian Loeschcke&#42;, Mads Toftrup&#42;, Michael J. Kastoryano, Serge Belongie, V\xE9steinn Sn\xE6bjarnarson"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2405.16528
+  ref: Loeschcke2024
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  note: ', (*Equal Contribution)'
+  year: '2024'
+  pub_type: conference
 - author: "Dustin Wright, Arnav Arora, Nadav Borenstein, Srishti Yadav, Serge Belongie, Isabelle Augenstein"
   link:
     display: ABS
