@@ -1,3 +1,13 @@
+- author: "Dustin Wright, Arnav Arora, Nadav Borenstein, Srishti Yadav, Serge Belongie, Isabelle Augenstein"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2406.19238
+  pub_type: conference
+  ref: Wright2024
+  title: "Revealing Fine-Grained Values and Opinions in Large Language Models"
+  venue: "Findings of the Conference on Empirical Methods in Natural Language Processing (EMNLP), "
+  address: Miami
+  year: '2024'
 - author: John Park, Riccardo de Lutio, Brendan Rappazzo, Barbara Ambrose, Fabian Michelangeli, Kimberly Watson, Serge Belongie, Damon Little
   date: '2024-06-01'
   keywords: fine grained visual categorization, botany
