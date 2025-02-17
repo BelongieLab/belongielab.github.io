@@ -1,3 +1,23 @@
+- address: Singapore
+  author: "Ching Lam Choi, Alexandre Duplessis, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2410.08069
+  pub_type: conference
+  ref: Choi2025
+  title: "UNI: Unlearning-based Neural Interpretations"
+  venue: 'International Conference on Learning Representations (ICLR), '
+  year: '2025'
+- address: Singapore
+  author: "Zhaochong An, Guolei Sun, Yun Liu, Runjia Li, Min Wu, Ming-Ming Cheng, Ender Konukoglu, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2410.22489
+  pub_type: conference
+  ref: An2025a
+  title: Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation
+  venue: 'International Conference on Learning Representations (ICLR), '
+  year: '2025'
 - address: Vancouver
   title: "LoQT: Low-Rank Adapters for Quantized Pre-Training"
   author: "Sebastian Loeschcke&#42;, Mads Toftrup&#42;, Michael J. Kastoryano, Serge Belongie, V\xE9steinn Sn\xE6bjarnarson"
