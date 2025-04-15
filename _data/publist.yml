@@ -1,3 +1,23 @@
+- address: Nashville
+  author: "V\xE9steinn Sn\xE6bjarnarson, Kevin Du, Niklas Stoehr, Serge Belongie, Ryan Cotterell, Nico Lang, Stella Frank"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2504.05457
+  pub_type: conference
+  ref: Vesn2025a
+  title: Hierarchy-Aware Evaluation of Free-Form Predictions From Vision-And-Language Models
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2025'
+- address: Nashville
+  author: "Zhaochong An, Guolei Sun, Yun Liu, Runjia Li, Junlin Han, Ender Konukoglu, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2503.16282
+  pub_type: conference
+  ref: An2025b
+  title: Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model
+  venue: 'Computer Vision and Pattern Recognition (CVPR), '
+  year: '2025'
 - address: Singapore
   author: "Ching Lam Choi, Alexandre Duplessis, Serge Belongie"
   link:
