@@ -1,9 +1,9 @@
-- author: Peter F. Michael, Zekun Hao, Serge Belongie, Abe Davis
+- author: Peter Michael, Zekun Hao, Serge Belongie, Abe Davis
   year: '2025'
   journal: ACM Transactions on Graphics
   link:
     display: ABS
-    url: https://ptrmcl.github.io/
+    url: https://ptrmcl.github.io
   pub_type: article
   title: Noise-Coded Illumination for Forensic and Photometric Video Analysis
   venue: 'ACM Transactions on Graphics'
