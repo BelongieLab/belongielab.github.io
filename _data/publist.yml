@@ -5,7 +5,7 @@
     display: ABS
     url: https://ptrmcl.github.io
   pub_type: article
-  venue: 'ACM Transactions on Graphics'
+  venue: 'ACM Transactions on Graphics (TOG), '
   title: Noise-Coded Illumination for Forensic and Photometric Video Analysis
 - address: Nashville
   author: "V\xE9steinn Sn\xE6bjarnarson, Kevin Du, Niklas Stoehr, Serge Belongie, Ryan Cotterell, Nico Lang, Stella Frank"
@@ -2467,7 +2467,7 @@
   pub_type: article
   ref: '191'
   title: Toward a Perceptual Space for Gloss
-  venue: 'ACM Transactions on Graphics, 28 (4), '
+  venue: 'ACM Transactions on Graphics (TOG), 28 (4), '
   volume: '28'
   year: '2009'
 - address: Miami, FL
