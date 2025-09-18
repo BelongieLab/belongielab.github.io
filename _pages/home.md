@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Welcome! Our lab carries out research in Computer Vision and Machine Learning, exploring problem areas including fine-grained analysis of multimodal data, self-supervised learning, 2D/3D generative models, and augmented reality. 
+Welcome! Our lab carries out research in Computer Vision and Machine Learning, exploring problem areas including fine-grained analysis of multimodal data, self-supervised learning, narrative modelling, 2D/3D generative models, and augmented reality. 
 
 Belongie Lab is founded and led by Prof. [Serge Belongie](https://scholar.google.com/citations?user=chD5XxkAAAAJ). We have members and alumni from [UCSD](https://ucsd.edu/) (2001 - 2012), [Cornell](https://www.cornell.edu/) and [Cornell Tech](https://www.tech.cornell.edu/) (2013 - 2021), and [University of Copenhagen](https://www.ku.dk/english/) (2021 - present). 
 
