@@ -13,7 +13,7 @@ Our group’s research focuses on Computer Vision, Machine Learning, and Human-i
 Here are some themes and techniques that we currently work on:
 
 ### Narrative Modeling. ### 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nitw.png){: style="width: 250px; float: left; margin: 0px 10px"}Whether through clustering or classification, machine learning provides flexible computational methods for inferring and constructing ontologies. Our group has explored such ontologies in multimodality (how images relate to text) and in fine-grained categorization (how systems can attend to subtle image details important to humans).
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nitw.webp){: style="width: 250px; float: left; margin: 0px 10px"}Whether through clustering or classification, machine learning provides flexible computational methods for inferring and constructing ontologies. Our group has explored such ontologies in multimodality (how images relate to text) and in fine-grained categorization (how systems can attend to subtle image details important to humans).
 
 One domain that remains largely unexplored is narratives. Humans have long narrated their realities, constructing cultural ontologies that shape collective meaning. Just as medieval societies populated their worlds with witches and monsters, our internet feed is currently flooded constantly by new "witches" and "monsters".
 
