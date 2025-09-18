@@ -13,14 +13,14 @@ Our group’s research focuses on Computer Vision, Machine Learning, and Human-i
 Here are some themes and techniques that we currently work on:
 
 ### Narrative Modeling. ### 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/nitw.webp){: style="width: 250px; float: left; margin: 0px 10px"}Whether through clustering or classification, machine learning provides flexible computational methods for inferring and constructing ontologies. Our group has explored such ontologies in multimodality (how images relate to text) and in fine-grained categorization (how systems can attend to subtle image details important to humans).
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nitw.webp){: style="width: 250px; float: left; margin: 0px 10px"}Whether through clustering or classification, machine learning provides flexible computational methods for inferring and constructing ontologies. Our group has explored such ontologies both in the context of multimodality (how images relate to text) and in the context of fine-grained categorization (how systems can attend to subtle image details important to humans).
 
-One domain that remains largely unexplored is narratives. Humans have long narrated their realities, constructing cultural ontologies that shape collective meaning. Just as medieval societies populated their worlds with witches and monsters, our internet feed is currently flooded constantly by new "witches" and "monsters".
+An culturally important domain of ontologies that remains largely unexplored in machine learning are *narratives*. Humans have for a long time narrated their observed shared realities, and used narratives as devices for sense making. Just as medieval societies populated their worlds with witches and monsters, our internet feed is constantly flooded by new "witches" and "monsters". Designing algorithms that help people navigate the increased scale of online narratives becomes an urgent need to ground digital democracy.
 
 At SØ(3), we aim to bridge this gap in two ways:
 
-- Building a large-scale database for narrative annotation and live observation across time, combining citizen science with expert moderation.
-- Developing technologies that enable users to parse and annotate their political feeds in real time, fostering new forms of personal and collective sense-making.
+- Building a large-scale database for narrative annotation and live observation across time, combining citizen science with expert moderation from narratologists.
+- Developing technologies that enable users to parse and annotate their political feeds in real time, empowering more informed forms of personal and collective sense-making.
 
 
 ### Embeddings and  Metric Learning. ### 
