@@ -12,8 +12,19 @@ Our group’s research focuses on Computer Vision, Machine Learning, and Human-i
 
 Here are some themes and techniques that we currently work on:
 
+### Narrative Modeling. ### 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/nitw.png){: style="width: 250px; float: left; margin: 0px 10px"}Whether through clustering or classification, machine learning provides flexible computational methods for inferring and constructing ontologies. Our group has explored such ontologies in multimodality (how images relate to text) and in fine-grained categorization (how systems can attend to subtle image details important to humans).
+
+One domain that remains largely unexplored is narratives. Humans have long narrated their realities, constructing cultural ontologies that shape collective meaning. Just as medieval societies populated their worlds with witches and monsters, our internet feed is currently flooded constantly by new "witches" and "monsters".
+
+At SØ(3), we aim to bridge this gap in two ways:
+
+- Building a large-scale database for narrative annotation and live observation across time, combining citizen science with expert moderation.
+- Developing technologies that enable users to parse and annotate their political feeds in real time, fostering new forms of personal and collective sense-making.
+
+
 ### Embeddings and  Metric Learning. ### 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/MetricLearning.png){: style="width: 250px; float: left; margin: 0px 10px"}Understanding similarities between images is a key problem in computer vision. To measure the similarity between images, they are typically embedded in a featurevector space, in which their distance preserve the relative dissimilarity. These vector space representations are commonly used in applications such as image retrieval, classification or visualizations.
+![]({{ site.url }}{{ site.baseurl }}/images/respic/MetricLearning.png){: style="width: 250px; float: left; margin: 0px 10px"}Understanding similarities between images is a key problem in computer vision. To measure the similarity between images, they are typically embedded in a feature vector space, in which their distance preserve the relative dissimilarity. These vector space representations are commonly used in applications such as image retrieval, classification or visualizations.
 
 In our group, we are interested in many aspects of similarity learning. On one hand, we work on fundamental methods to learn similarity spaces. One the other hand, we work on applications of visual similarities in areas such as fine-grained categorization and recommendation systems. 
 
@@ -58,8 +69,6 @@ Feature detection and matching is an important task in many computer vision appl
 ### Generative Models. ###
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/GenerativeModels.png){: style="width: 150px; float: left; margin: 0px 10px"}
 Learning generative models that can explain complex data distribution is a long-standing problem in machine learning research. At SE(3), we are particularly interested in image generation, which is extremely challenging due to the high dimensionality of data. Generative models of images are not only important for unsupervised feature learning, but also enable a wide range of commercial applications such as image editing. With recent advances in Generative Adversarial Networks (GANs), it becomes possible to generate realistic images in constrained domains. Our research aims at improving and better understanding GANs, as well as exploring alternative methods for image generation.
-
-
 
 ### Video and Motion Analysis ###
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/VideoMotion.png){: style="width: 250px; float: right; margin: 10px"}
