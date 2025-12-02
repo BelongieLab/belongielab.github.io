@@ -1,4 +1,15 @@
 - address: San Diego
+  title: "RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation"
+  author: "Silpa Vadakkeeveetil Sreelatha, Sauradip Nag,Muhammad Awais, Serge Belongie, Anjan Dutta"
+  link:
+    display: ABS
+    url: https://www.arxiv.org/abs/2509.15257
+  ref: Silpa2025
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2025'
+  pub_type: conference
+
+- address: San Diego
   title: "Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models"
   author: "Mateusz Pach, Shyamgopal Karthik, Quentin Bouniot, Serge Belongie, Zeynep Akata"
   link:
