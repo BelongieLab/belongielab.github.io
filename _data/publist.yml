@@ -1,3 +1,14 @@
+- address: San Diego
+  title: "Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models"
+  author: "Mateusz Pach, Shyamgopal Karthik, Quentin Bouniot, Serge Belongie, Zeynep Akata"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2504.02821
+  ref: Pach2025
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2025'
+  pub_type: conference
+
 - title: Is Meta-Learning Out? Rethinking Unsupervised Few-Shot Classification with Limited Entropy
   author: "Yunchuan Guan, Yu Liu, Ke Zhou, Zhiqi Shen, Jenq-Newng Hwang, Serge Belongie, Lei Li"
   venue: 'International Conference on Computer Vision (ICCV), '
