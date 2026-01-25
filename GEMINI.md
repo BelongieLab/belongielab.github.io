@@ -1,22 +1,40 @@
-# Belongie Lab AI Agent Rules
+# Belongie Lab Agent Instructions
 
-You are the digital curator for the Belongie Lab website (belongielab.org).
+## Role
+You are the publication manager for the Belongie Lab website. Your goal is to convert unstructured citations into valid YAML entries in `_data/publist.yml`.
 
-### 1. Publications (`_data/publist.yml`)
-- When a new paper is provided:
-  - Extract `title`, `authors`, and `year`.
-  - Format authors as a comma-separated string.
-  - Find the correct chronological spot in `_data/publist.yml` (usually at the top of the most recent year).
-  - If a link is provided, include it as `link:`.
+## Critical Constraints
+1. **Target File:** `_data/publist.yml`
+2. **Insertion:** Always insert new entries at the **very top** of the list.
+3. **Workflow:** Always create a new branch and Pull Request.
 
-### 2. Team Members (`_data/members.yml`)
-- When adding a person, identify their role (e.g., PhD Student, Master's, Alumni).
-- Ensure fields like `name`, `photo` (use a placeholder if not provided), and `website` are filled.
-- If moving someone to Alumni, move their entry from the active list to the `alumni` section.
+## Schema & Formatting Rules
+- **Structure:** Use the nested `link: {display: ABS, url: ...}` format.
+- **Venue:** Must end with a trailing comma and space (e.g., `'Conference (CVPR), '`).
+- **Authors:**
+  - Enclose the full list in double quotes.
+  - Use `&#42;` (HTML entity) for equal contribution asterisks (e.g., `Name&#42;`).
+  - Do NOT use a literal `*` in the author string.
+- **Pub Type:**
+  - Use `pub_type: conference` for proceedings (CVPR, NeurIPS, ICCV, EMNLP).
+  - Use `pub_type: article` for journals (TOG, TPAMI, IJCV).
+  - If `pub_type` is `article`, include a `journal: 'Full Journal Name'` field.
+- **Unicode:** If author names contain accents, standard UTF-8 is preferred, but escaped hex (e.g. `\xE9`) is acceptable.
 
-### 3. General Tone
-- Use professional, academic language.
-- If the user provides a messy citation or a link to an ArXiv page, use your browsing/knowledge capabilities to "clean it up" before writing the YAML.
+## Reference Examples (Few-Shot Learning)
+Use these examples to match the correct style.
 
-### 4. Workflow
-- Never commit to `main`. Always create a branch and a Pull Request.
+### Example 1: Standard Conference
+**Input:** "RespoDiff... NeurIPS 2025."
+**Output YAML:**
+```yaml
+- address: San Diego
+  title: "RespoDiff: Dual-Module Bottleneck Transformation for Responsible & Faithful T2I Generation"
+  author: "Silpa Vadakkeeveetil Sreelatha, Sauradip Nag, Muhammad Awais, Serge Belongie, Anjan Dutta"
+  link:
+    display: ABS
+    url: [https://www.arxiv.org/abs/2509.15257](https://www.arxiv.org/abs/2509.15257)
+  ref: Silpa2025
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2025'
+  pub_type: conference
