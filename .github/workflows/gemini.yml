@@ -2,10 +2,19 @@ name: Gemini Agent
 on:
   issue_comment:
     types: [created]
+  workflow_dispatch:      # <--- The Manual 'Starter' Button
+    inputs:
+      prompt:
+        description: 'Instructions for the agent'
+        required: true
+        default: 'Check connection'
 
 jobs:
   gemini-agent:
-    if: contains(github.event.comment.body, '@gemini-cli')
+    # Run if it's a comment with @gemini-cli OR if it's a manual run
+    if: >
+      (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@gemini-cli')) ||
+      github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,4 +28,5 @@ jobs:
         uses: google-github-actions/run-gemini-cli@main
         with:
           gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
-          prompt: ${{ github.event.comment.body }}
+          # Use the comment body if it exists, otherwise use the manual input
+          prompt: ${{ github.event.comment.body || inputs.prompt }}
