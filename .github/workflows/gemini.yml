@@ -1,4 +1,4 @@
-name: Gemini Agent
+name: Gemini Publication Manager
 on:
   issue_comment:
     types: [created]
@@ -9,32 +9,90 @@ on:
         required: true
         default: 'Check connection'
 
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
 jobs:
-  gemini-agent:
+  manage-publications:
+    # Run only for @gemini-cli comments or manual buttons
     if: >
       (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@gemini-cli')) ||
       github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      pull-requests: write
-      issues: write
     steps:
-      - name: Checkout Repository
+      - name: Checkout Repo
         uses: actions/checkout@v4
 
-      # STEP 1: Put the dangerous text into a safe file
-      - name: Safe Prompt Handling
-        env:
-          # This method prevents stars (*) from breaking the shell
-          USER_INPUT: ${{ github.event.comment.body || inputs.prompt }}
-        run: |
-          echo "$USER_INPUT" > agent_instructions.txt
-
-      # STEP 2: Tell the Agent to read the file
-      - name: Run Gemini CLI
-        uses: google-github-actions/run-gemini-cli@main
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
-          # We simply point the agent to the file
-          prompt: "Read the file 'agent_instructions.txt' and follow the request inside it. Ignore the '@gemini-cli' prefix."
+          python-version: '3.x'
+
+      - name: Install Google Gemini SDK
+        run: pip install google-generativeai
+
+      - name: Process with Gemini (Python Engine)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # Safely capture the input without shell expansion
+          USER_PROMPT: ${{ github.event.comment.body || inputs.prompt }}
+        run: |
+          python3 -c "
+          import os
+          import google.generativeai as genai
+
+          # 1. Setup
+          genai.configure(api_key=os.environ['GEMINI_API_KEY'])
+          model = genai.GenerativeModel('gemini-1.5-flash')
+
+          # 2. Read Context
+          with open('GEMINI.md', 'r') as f:
+              rules = f.read()
+          with open('_data/publist.yml', 'r') as f:
+              current_data = f.read()
+
+          user_request = os.environ['USER_PROMPT'].replace('@gemini-cli', '').strip()
+
+          # 3. Construct the Prompt
+          full_prompt = f'''
+          You are a strict YAML editor.
+          {rules}
+
+          TASK:
+          The user wants to add a publication to _data/publist.yml.
+          User Request: {user_request}
+
+          CURRENT CONTENT of _data/publist.yml:
+          {current_data}
+
+          INSTRUCTIONS:
+          1. Return the NEW full content of the file.
+          2. Insert the new entry at the top of the list.
+          3. Output ONLY the raw YAML. Do not use markdown blocks like \`\`\`yaml.
+          '''
+
+          # 4. Generate & Clean
+          response = model.generate_content(full_prompt)
+          new_content = response.text.strip()
+          
+          # Strip markdown code blocks if the model adds them
+          if new_content.startswith('\`\`\`yaml'): new_content = new_content.replace('\`\`\`yaml', '', 1)
+          if new_content.startswith('\`\`\`'): new_content = new_content.replace('\`\`\`', '', 1)
+          if new_content.endswith('\`\`\`'): new_content = new_content.rsplit('\`\`\`', 1)[0]
+          
+          # 5. Save
+          with open('_data/publist.yml', 'w') as f:
+              f.write(new_content.strip())
+          "
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "Gemini: Update publist.yml"
+          title: "Gemini Agent: Update Publications"
+          body: "Automated update based on request: ${{ github.event.comment.body || inputs.prompt }}"
+          branch: "gemini-update-${{ github.run_id }}"
+          delete-branch: true
