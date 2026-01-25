@@ -2,16 +2,15 @@ name: Gemini Agent
 on:
   issue_comment:
     types: [created]
-  workflow_dispatch:      # <--- The Manual 'Starter' Button
+  workflow_dispatch:
     inputs:
       prompt:
-        description: 'Instructions for the agent'
+        description: 'Instructions'
         required: true
         default: 'Check connection'
 
 jobs:
   gemini-agent:
-    # Run if it's a comment with @gemini-cli OR if it's a manual run
     if: >
       (github.event_name == 'issue_comment' && contains(github.event.comment.body, '@gemini-cli')) ||
       github.event_name == 'workflow_dispatch'
@@ -24,9 +23,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      # STEP 1: Put the dangerous text into a safe file
+      - name: Safe Prompt Handling
+        env:
+          # This method prevents stars (*) from breaking the shell
+          USER_INPUT: ${{ github.event.comment.body || inputs.prompt }}
+        run: |
+          echo "$USER_INPUT" > agent_instructions.txt
+
+      # STEP 2: Tell the Agent to read the file
       - name: Run Gemini CLI
         uses: google-github-actions/run-gemini-cli@main
         with:
           gemini_api_key: ${{ secrets.GEMINI_API_KEY }}
-          # Use the comment body if it exists, otherwise use the manual input
-          prompt: ${{ github.event.comment.body || inputs.prompt }}
+          # We simply point the agent to the file
+          prompt: "Read the file 'agent_instructions.txt' and follow the request inside it. Ignore the '@gemini-cli' prefix."
