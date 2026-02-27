@@ -1,3 +1,24 @@
+- title: "RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding"
+  author: "Jiaang Li&#42;, Yifei Yuan&#42;, Wenyan Li, Mohammad Aliannejadi, Daniel Hershcovich, Anders Søgaard, Ivan Vulić, Wenxuan Zhang, Paul Pu Liang, Yang Deng, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2505.14462
+  ref: Li2026
+  venue: 'International Conference on Learning Representations (ICLR), '
+  note: ', (*Equal Contribution)'
+  year: '2026'
+  pub_type: conference
+
+- title: "SuperF: Neural Implicit Fields for Multi-Image Super-Resolution"
+  author: "Sander Riisøen Jyhne, Christian Igel, Morten Goodwin, Per-Arne Andersen, Serge Belongie, Nico Lang"
+  link:
+    display: ABS
+    url: https://www.arxiv.org/abs/2512.09115
+  ref: Jyhne2026
+  venue: 'International Conference on Learning Representations (ICLR), '
+  year: '2026'
+  pub_type: conference
+
 - title: "Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation"
   author: "Hongtao Yu, Yuxin Peng, Serge Belongie, Xiu-Shen Wei"
   link:
