@@ -1,3 +1,13 @@
+- title: "Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation"
+  author: "Hongtao Yu, Yuxin Peng, Serge Belongie, Xiu-Shen Wei"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2504.14988
+  ref: Yu2026
+  venue: 'International Conference on Learning Representations (ICLR), '
+  year: '2026'
+  pub_type: conference  
+
 - title: "What if Othello-Playing Language Models Could See?"
   author: "Xinyi Chen&#42;, Yifei Yuan&#42;, Jiaang Li, Serge Belongie, Maarten de Rijke, Anders Søgaard"
   link:
