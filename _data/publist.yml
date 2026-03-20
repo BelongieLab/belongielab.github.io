@@ -1,3 +1,13 @@
+- title: "Video Understanding: From Geometry and Semantics to Unified Models"
+  author: "Zhaochong An, Zirui Li, Mingqiao Ye, Feng Qiao, Jiaang Li, Zongwei Wu, Vishal Thengane, Chengzu Li, Lei Li, Luc Van Gool, Guolei Sun, Serge Belongie"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2603.17840
+  ref: An2026
+  venue: 'Machine Intelligence Research, '
+  year: '2026'
+  pub_type: journal
+
 - title: "RAVENEA: A Benchmark for Multimodal Retrieval-Augmented Visual Culture Understanding"
   author: "Jiaang Li&#42;, Yifei Yuan&#42;, Wenyan Li, Mohammad Aliannejadi, Daniel Hershcovich, Anders Søgaard, Ivan Vulić, Wenxuan Zhang, Paul Pu Liang, Yang Deng, Serge Belongie"
   link:
