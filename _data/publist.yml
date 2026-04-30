@@ -18,6 +18,16 @@
 #   year: '2026'
 #   pub_type: conference
 
+# - title: "MODUS: Decoder-only Any-to-Any Modeling of Diverse Modalities"
+#   author: "Mingqiao Ye, Zhaochong An, Zhitong Gao, Xian Liu, Oğuzhan Fatih Kar, Jesse Allardice, Roman Bachmann, David Mizrahi, François Fleuret, Chuan Li, Amir Zadeh, Serge Belongie, Afshin Dehghan, Amir Zamir"
+#   link:
+#     display: ABS
+#     url: https://arxiv.org/abs/
+#   ref: Ye2026
+#   venue: 'International Conference on Machine Learning (ICML), '
+#   year: '2026'
+#   pub_type: conference
+
 - title: "Video Understanding: From Geometry and Semantics to Unified Models"
   author: "Zhaochong An, Zirui Li, Mingqiao Ye, Feng Qiao, Jiaang Li, Zongwei Wu, Vishal Thengane, Chengzu Li, Lei Li, Luc Van Gool, Guolei Sun, Serge Belongie"
   link:
