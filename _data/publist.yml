@@ -1,3 +1,12 @@
+- title: "HiddenObjects: Scalable Diffusion-Distilled Spatial Priors for Object Placement"
+  author: "Marco Schouten, Ioannis Siglidis, Serge Belongie, Dim P. Papadopoulos"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2604.10675
+  ref: Schouten2026
+  venue: 'Winter Conference on Applications of Computer Vision (WACV), '
+  year: '2026'
+  pub_type: conference
 - title: "Stitched Value Model for Diffusion Alignment"
   author: "Hyojun Go, Hyungjin Chung, Prune Truong, Goutam Bhat, Li Mi, Zhaochong An, Zixiang Zhao, Dominik Narnhofer, Serge Belongie, Federico Tombari, Konrad Schindler"
   link:
