@@ -1,3 +1,12 @@
+- title: "Stitched Value Model for Diffusion Alignment"
+  author: "Hyojun Go, Hyungjin Chung, Prune Truong, Goutam Bhat, Li Mi, Zhaochong An, Zixiang Zhao, Dominik Narnhofer, Serge Belongie, Federico Tombari, Konrad Schindler"
+  link:
+    display: ABS
+    url: https://arxiv.org/abs/2605.19804
+  ref: Go2026
+  venue: 'Neural Information Processing Systems (NeurIPS), '
+  year: '2026'
+  pub_type: conference
 - address: Malmö
   author: "Lucia Gordon, Serge Belongie, Christian Igel, Nico Lang"
   link:
